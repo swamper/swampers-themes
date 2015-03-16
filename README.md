@@ -13,7 +13,7 @@ This repo can and will vary greatly. These files are actively developed from scr
 
 ## Installation
 
-Delete the files in /src/styles/ and /src/scripts/ then drop these in the '/src' directory in boot-build. Overwrite index.html of course.
+Delete the files in /app/styles/ and /app/scripts/ then drop these in the '/app' directory in boot-build. Overwrite index.html of course.
 
 ## To Do
 
